@@ -1,0 +1,5 @@
+seaborn
+opencv-python-headless
+scikit-learn
+matplotlib
+tqdm
