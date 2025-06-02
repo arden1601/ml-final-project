@@ -1,0 +1,7 @@
+.venv
+dataset_v4
+runs
+test_images
+*.zip
+.python-version
+*.pt
